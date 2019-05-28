@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-28T14:36:45+10:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NarenTest</title><subtitle>How did I miss this Jekyll Admin yaar!!!</subtitle><entry><title type="html">Hahaha</title><link href="http://localhost:4000/2019/05/27/hahaha.html" rel="alternate" type="text/html" title="Hahaha" /><published>2019-05-27T00:00:00+10:00</published><updated>2019-05-27T00:00:00+10:00</updated><id>http://localhost:4000/2019/05/27/hahaha</id><content type="html" xml:base="http://localhost:4000/2019/05/27/hahaha.html">&lt;h3 id=&quot;this-is-my-new-presentation&quot;&gt;This is my new presentation.&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What I want is this.&lt;/li&gt;
+  &lt;li&gt;And also this&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">This is my new presentation.</summary></entry></feed>
